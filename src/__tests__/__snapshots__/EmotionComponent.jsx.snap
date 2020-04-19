@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`demo for snapshot update bug 1`] = `
+.emotion-0 {
+  margin: 0;
+  padding: 0;
+  background-color: dodgerblue;
+  color: white;
+}
+
+<div>
+  <button
+    class="emotion-0"
+    id="button1"
+  >
+    Some Text
+  </button>
+</div>
+`;
